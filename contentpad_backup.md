@@ -1,4 +1,24 @@
-## Markdown starting cheatsheet
+# Planning To-Do
+
+1. How will you communicate with each other?
+2. What are you showing? 
+3. Write your work descriptions in this document
+4. Who is responsible for what in your group?
+5. Who is going to design the document / change the fonts etc?
+6. Anything else .....
+
+
+# Work Description Template
+
+If you want to use this pdf to layout work descriptions that you will print to include in the exhibition you might want to change the formatting of the document a bit, remove the page numbers and spacing of the document etc. 
+
+## Title of Work
+### Your Name
+
+Work description, approx. 100 words.
+
+
+# Markdown starting cheatsheet
 
 <!-- This is an HTML comment that won't show in the PDF -->
 
